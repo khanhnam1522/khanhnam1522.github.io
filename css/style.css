@@ -132,6 +132,7 @@ body {
   color: #777; }
 
 .heading-secondary {
+  margin-top: 70px;
   font-size: 3.5rem;
   text-transform: uppercase;
   font-weight: 700;
