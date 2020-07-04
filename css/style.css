@@ -98,6 +98,7 @@ body {
   to {
     transform: rotate(360deg); } }
 
+
 .heading-primary {
   color: #fff;
   text-transform: uppercase;
@@ -123,6 +124,11 @@ body {
     @media (max-width: 37.5em) {
       .heading-primary--sub {
         letter-spacing: 0.5rem; } }
+
+.heading-primary a{
+	margin: 2rem;
+	color: white;
+}
 
 body {
   font-family: "Lato", sans-serif;
@@ -746,7 +752,6 @@ body {
       margin-right: 1.5rem; }
   .footer__link:link, .footer__link:visited {
     color: #f1f1f1;
-    background-color: #4C5F9A;
     text-decoration: none;
     text-transform: uppercase;
     display: inline-block;
