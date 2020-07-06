@@ -724,7 +724,7 @@ body {
   background-color: #4C5F9A;
   padding: 2rem 0;
   font-size: 1.4rem; }
-  @media (max-width: 56.25em) {
+   @media (max-width: 56.25em) {
     .footer {
       padding: 8rem 0; } }
   .footer__logo-box {
@@ -745,7 +745,8 @@ body {
         width: 100%;
         text-align: center; } }
   .footer__list {
-    list-style: none; }
+    list-style: none; 
+  }
   .footer__item {
     display: inline-block; }
     .footer__item:not(:last-child) {
