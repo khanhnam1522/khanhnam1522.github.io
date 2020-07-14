@@ -437,6 +437,8 @@ body {
       background-image: linear-gradient(to right bottom, #eca026, rgba(185, 19, 19, 0.911)), url(../img/movie.png); }
     .card__picture--4 {
       background-image: linear-gradient(to right bottom, #6b330e, #978f1c), url(../img/chip8.png); }
+    .card__picture--5 {
+      background-image: linear-gradient(to right bottom, #396b2a, #1b2e21) , url(../img/dragon.png); }
     .card__picture--6 {
       background-image: linear-gradient(to right bottom, #838383, #2e2e2e), url(../img/SocialGaming.png); }
   .card__heading {
